@@ -1,46 +1,58 @@
-<svg width="580" height="420" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="422" width="582" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="580" height="420" id="svg16174" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="fig1.svg">
+  <metadata id="metadata16225">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs16223" />
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1027" id="namedview16221" showgrid="false" inkscape:zoom="2.0428571" inkscape:cx="290" inkscape:cy="210" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="svg16174" />
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g id="g16176">
+    <title id="title16178">background</title>
+    <rect fill="#fff" id="canvas_background" height="422" width="582" y="-1" x="-1" />
+    <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+      <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="rect16182" />
+    </g>
   </g>
- </g>
- <g>
-  <title>Layer 1</title>
-  <rect stroke="#000" id="svg_1" height="320" width="320" y="69.000538" x="134.000055" stroke-width="1.5" fill="#fff"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="389.000538" x2="294.000055" y1="69.000538" x1="294.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="229.000538" x2="454.000055" y1="229.000538" x1="134.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="389.000538" x2="134.000055" y1="69.000538" x1="454.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="389.000538" x2="454.000055" y1="69.000538" x1="134.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
-  <ellipse ry="4" rx="4" id="svg_6" cy="69.000538" cx="134.49972" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_7" cy="69.000538" cx="454.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_8" cy="389.000538" cx="454.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_9" cy="389.000538" cx="135.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_10" cy="229.000538" cx="134.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_11" cy="229.000538" cx="454.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_12" cy="229.000538" cx="294.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_13" cy="69.000538" cx="294.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <ellipse ry="4" rx="4" id="svg_14" cy="389.000538" cx="294.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path transform="rotate(45 445.7256774902344,77.25350952148436) " id="svg_15" d="m440.975691,82.753486l4.749975,-10.999955l4.749975,10.999955l-9.499949,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path id="svg_16" d="m288.9763,85.753473l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path transform="rotate(-45 142.22686767578116,76.75350189208982) " id="svg_17" d="m137.47689,82.253482l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path transform="rotate(-90 145.72685241699222,229.2528839111328) " id="svg_18" d="m140.976881,234.75287l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path transform="rotate(90 442.72567749023443,228.75288391113284) " id="svg_19" d="m437.975722,234.25287l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path transform="rotate(135 446.2256774902344,381.2522888183594) " id="svg_20" d="m441.47571,386.752265l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path transform="rotate(180 294.2262878417969,377.2523193359375) " id="svg_21" d="m289.476307,382.752284l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <path transform="rotate(-135 142.7268829345703,380.2522888183594) " id="svg_22" d="m137.976912,385.752276l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000"/>
-  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_23" y="222.999807" x="378.749719" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">M1</text>
-  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_25" y="168.000024" x="337.749882" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">M2</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_27" y="147.500107" x="277.250122" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M3</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_28" y="176.499992" x="215.750366" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M4</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_29" y="226.999792" x="194.750449" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M5</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_30" y="301.999495" x="229.250312" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M6</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_31" y="321.499417" x="296.750044" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M7</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_32" y="291.499536" x="358.2498" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M8</text>
-  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_34" y="40" x="198.25001" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">図1.プロッターの移動域</text>
-  <path stroke="#000" stroke-dasharray="2,2" id="svg_37" d="m297.75045,231.5c21.65297,13.50069 34.12987,11.42215 78.99956,12.13781c44.86969,0.71566 57.77364,-0.31388 75.76747,-11.47145" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
-  <text opacity="0.5" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_38" y="256.5" x="351.75001" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">1/100inch</text>
- </g>
+  <g id="g16184">
+    <title id="title16186">Layer 1</title>
+    <rect stroke="#000" id="svg_1" height="320" width="320" y="69.000538" x="134.000055" stroke-width="1.5" fill="#fff" />
+    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="389.000538" x2="294.000055" y1="69.000538" x1="294.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none" />
+    <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="229.000538" x2="454.000055" y1="229.000538" x1="134.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none" />
+    <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="389.000538" x2="134.000055" y1="69.000538" x1="454.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none" />
+    <line stroke-linecap="null" stroke-linejoin="null" id="svg_5" y2="389.000538" x2="454.000055" y1="69.000538" x1="134.000055" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none" />
+    <ellipse ry="4" rx="4" id="svg_6" cy="69.000538" cx="134.49972" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_7" cy="69.000538" cx="454.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_8" cy="389.000538" cx="454.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_9" cy="389.000538" cx="135.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_10" cy="229.000538" cx="134.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_11" cy="229.000538" cx="454.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_12" cy="229.000538" cx="294.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_13" cy="69.000538" cx="294.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <ellipse ry="4" rx="4" id="svg_14" cy="389.000538" cx="294.000055" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path transform="rotate(45 445.7256774902344,77.25350952148436) " id="svg_15" d="m440.975691,82.753486l4.749975,-10.999955l4.749975,10.999955l-9.499949,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path id="svg_16" d="m288.9763,85.753473l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path transform="rotate(-45 142.22686767578116,76.75350189208982) " id="svg_17" d="m137.47689,82.253482l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path transform="rotate(-90 145.72685241699222,229.2528839111328) " id="svg_18" d="m140.976881,234.75287l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path transform="rotate(90 442.72567749023443,228.75288391113284) " id="svg_19" d="m437.975722,234.25287l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path transform="rotate(135 446.2256774902344,381.2522888183594) " id="svg_20" d="m441.47571,386.752265l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path transform="rotate(180 294.2262878417969,377.2523193359375) " id="svg_21" d="m289.476307,382.752284l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <path transform="rotate(-135 142.7268829345703,380.2522888183594) " id="svg_22" d="m137.976912,385.752276l4.74997,-10.99996l4.74997,10.99996l-9.49994,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#000000" />
+    <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_23" y="222.999807" x="378.749719" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">M1</text>
+    <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_25" y="168.000024" x="337.749882" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">M2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_27" y="147.500107" x="277.250122" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M3</text>
+    <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_28" y="176.499992" x="215.750366" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M4</text>
+    <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_29" y="226.999792" x="194.750449" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M5</text>
+    <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_30" y="301.999495" x="229.250312" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M6</text>
+    <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_31" y="321.499417" x="296.750044" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M7</text>
+    <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_32" y="291.499536" x="358.2498" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">M8</text>
+    <text xml:space="preserve" font-size="18" id="svg_34" y="40" x="226.25002" fill-opacity="null" stroke-opacity="null" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:'Helvetica, Arial, sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0" sodipodi:linespacing="125%">図1.プロッターの移動域</text>
+    <path stroke="#000" stroke-dasharray="2,2" id="svg_37" d="m297.75045,231.5c21.65297,13.50069 34.12987,11.42215 78.99956,12.13781c44.86969,0.71566 57.77364,-0.31388 75.76747,-11.47145" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none" />
+    <text opacity="0.5" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_38" y="256.5" x="351.75001" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">1/100inch</text>
+  </g>
 </svg>
