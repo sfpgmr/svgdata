@@ -1,0 +1,43 @@
+<svg width="1024" height="800" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="802" width="1026" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="169" width="228.999997" y="255" x="367.5" stroke-width="1.5" fill="#C48157"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="243" x="371.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">canvas(id:buffer)</text>
+  <rect stroke="#000" id="svg_3" height="261.00001" width="431.999993" y="459" x="550.500003" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="750" x="545.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">canvas(id:screen)</text>
+  <rect stroke="#000" id="svg_6" height="259.034933" width="352.99998" y="460" x="592.5" stroke-width="1.5" fill="#C48157"/>
+  <line stroke-dasharray="2,2" stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="719" x2="597.5" y1="424" x1="369.5" fill-opacity="null" stroke-width="1.5" stroke="#845335" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="307" x2="1096.5" y1="305" x1="1101.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <rect stroke="#000" id="svg_13" height="169" width="228.999997" y="87" x="59.5" stroke-width="1.5" fill="#C48157"/>
+  <line stroke-dasharray="2,2" stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="423" x2="367.5" y1="256" x1="60.5" stroke-width="1.5" stroke="#546433" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_15" y2="421" x2="595.5" y1="255" x1="288.5" fill-opacity="null" stroke-dasharray="2,2" stroke-width="1.5" stroke="#1F361B" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_16" y2="258" x2="367.5" y1="87" x1="60.5" fill-opacity="null" stroke-opacity="null" stroke-dasharray="2,2" stroke-width="1.5" stroke="#46673D" fill="none"/>
+  <line stroke-dasharray="2,2" stroke-linecap="null" stroke-linejoin="null" id="svg_17" y2="255" x2="596.5" y1="87" x1="291.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#46673D" fill="none"/>
+  <rect id="svg_19" height="83" width="84" y="118" x="100.5" stroke-width="1.5" fill="#5B9BA2"/>
+  <ellipse ry="34.5" rx="36" id="svg_20" cy="201.5" cx="186.5" stroke-width="1.5" fill="#849854"/>
+  <rect id="svg_22" height="83" width="84" y="281" x="417.5" stroke-width="1.5" fill="#5B9BA2"/>
+  <ellipse ry="34.5" rx="36" id="svg_23" cy="364.5" cx="503.5" stroke-width="1.5" fill="#849854"/>
+  <rect id="svg_24" height="83" width="84" y="531" x="699.5" stroke-width="1.5" fill="#5B9BA2"/>
+  <ellipse ry="34.5" rx="36" id="svg_25" cy="614.5" cx="785.5" stroke-width="1.5" fill="#849854"/>
+  <line stroke-dasharray="2,2" stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="460" x2="597.5" y1="256" x1="367.5" fill-opacity="null" stroke-width="1.5" stroke="#845335" fill="none"/>
+  <line stroke="#845335" stroke-linecap="null" stroke-linejoin="null" id="svg_9" y2="716.999996" x2="945.499992" y1="424" x1="596.5" fill-opacity="null" stroke-dasharray="2,2" stroke-width="1.5" fill="none"/>
+  <line stroke-dasharray="2,2" stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="460" x2="946.5" y1="256" x1="598.5" stroke-width="1.5" stroke="#845335" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_26" y="241" x="594.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">横256pxの固定画面バッファ</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_30" y="600" x="70.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">画面にフィットするように拡大縮小して描画</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_31" y="433" x="187.5" stroke-width="0" stroke="#000000" fill="#000000">putImageData()</text>
+  <path transform="rotate(139.80081176757812 449.3399963378907,580.42822265625) " id="svg_32" d="m436.339994,580.236212l13.000002,-79.808019l13.000002,79.808019l-6.500002,0l0,80.192041l-13.000001,0l0,-80.192041l-6.500002,0z" stroke-width="1.5" stroke="#000000" fill="#000000"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_33" y="667" x="363.5" stroke-width="0" stroke="#000000" fill="#000000">drawImage()</text>
+  <path transform="rotate(121.36866760253906 166.3399963378906,362.42822265625) " id="svg_34" d="m153.33999,362.23621l13.00001,-79.80802l13,79.80802l-6.5,0l0,80.19204l-13,0l0,-80.19204l-6.50001,0z" stroke-width="1.5" stroke="#000000" fill="#000000"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_35" y="65" x="65.5" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">ImageDataにレンダリング</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_36" y="461" x="188.5" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">でbufferに転送</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_37" y="269" x="647.5" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">画面には非表示</text>
+ </g>
+</svg>
