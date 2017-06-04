@@ -1,0 +1,29 @@
+<svg width="1024" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="1026" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m249.166667,423.833332c0,0 198,-346 197.5,-346.5c0.5,0.5 390.5,446.5 390,446c0.5,0.5 -587.5,-99.5 -587.5,-99.5z" stroke-width="1.5" stroke="#C48157" fill="#C48157"/>
+  <line stroke="#619E73" stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="240.833335" x2="593.236189" y1="240.833335" x1="351.499975" stroke-width="10" fill="none"/>
+  <rect id="svg_4" height="10.666667" width="11.333333" y="235.333332" x="347" stroke-width="5" stroke="#ff7f00" fill="#ff7f00"/>
+  <rect id="svg_5" height="10.666667" width="11.333333" y="235.999999" x="586.666672" stroke-width="5" stroke="#ff7f00" fill="#ff7f00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="217.999999" x2="592.666667" y1="75.999999" x1="457" stroke-width="5" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="219.343431" x2="592" y1="197.333332" x1="592" stroke-width="5" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="217.333332" x2="594.333333" y1="217.333332" x1="572" stroke-width="5" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="217.999999" x2="347.666667" y1="75.666665" x1="431.333333" fill-opacity="null" stroke-opacity="null" stroke-width="5" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="222.343431" x2="345" y1="200.333332" x1="345" stroke-width="5" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="219.666665" x2="364.999999" y1="219.666665" x1="342.666666" stroke-width="5" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_15" y2="267.333332" x2="565.001107" y1="267.333332" x1="364.333333" fill-opacity="null" stroke-width="10" stroke="#ff0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_16" y2="254.333332" x2="548.333333" y1="269.999999" x1="567.333333" fill-opacity="null" stroke-width="10" stroke="#ff0000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_18" y2="280.333332" x2="547.333333" y1="265.999999" x1="567" fill-opacity="null" stroke-width="10" stroke="#ff0000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_19" y="44.000001" x="10.999995" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#ff0000" fill="#000000">スキャンライン法による三角形の描画</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_20" y="124.49949" x="608.500287" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">三角形を走査線方向</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_21" y="154.499579" x="609.500288" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">の線分に分割して描画</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_23" y="68.499325" x="459.499845" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">A(Xa,Ya)</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_24" y="455.500454" x="168.498991" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">B(xb,yb)</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_25" y="554.500744" x="824.500944" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000000" fill="#000000">C(xc,yc)</text>
+ </g>
+</svg>
